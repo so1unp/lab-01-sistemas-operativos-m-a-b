@@ -10,6 +10,7 @@ int main()
     exit(EXIT_SUCCESS);
 }
 
+// Función para imprimir palabras de la entrada estándar
 void imprimir_palabras()
 {
     int c;
